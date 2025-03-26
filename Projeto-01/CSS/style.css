@@ -37,3 +37,14 @@ body {
     color: #ff69b4;
   }
   
+   .carousel-item{
+    height: 700px;
+}
+
+.carousel-caption h2{
+    font-size: 36px;
+}
+
+.carousel-caption{
+    text-align: left;
+}
